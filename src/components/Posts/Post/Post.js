@@ -22,10 +22,11 @@ const Post = ({ post, setCurrentId }) => {
                 <EditIcon fontSize="default" /></Button>
             </div>
             <div className={classes.details}>
-                <Typography variant="body" color="textSecondary">{post.tags.map((tag) => `#${tag} `)}</Typography>
+                <Typography variant="body1" color="textSecondary">{post.tags.map((tag) => `#${tag} `)}</Typography>
             </div>
+                <Typography className={classes.title} variant="h5" gutterBottom>{post.title}</Typography>
                 <CardContent>
-                    <Typography className={classes.title} variant="h5" gutterBottom>{post.message}</Typography>
+                    <Typography variant="h6" gutterBottom>{post.message}</Typography>
                 </CardContent>
                 <CardActions className={classes.cardActions} >
                     <Button size="small" color="primary" onClick={() => {}}>
