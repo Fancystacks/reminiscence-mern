@@ -40,7 +40,5 @@ export const removePost = async (req, res) => {
 
     await PostMessage.findByIdAndRemove(id);
 
-    console.log("delete");
-
     res.json({ message : 'Post removed successfully '});
 }
