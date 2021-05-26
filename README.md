@@ -18,9 +18,13 @@ Create an event in the text fields and press submit
 
 ## Interactive Functionality:
 
-- Edit any post by clicking the pencil icon
+#### Edit any fields of post by clicking the pencil icon
 
-  - Text fields will automatically be filled with current data to edit
+<img src="https://user-images.githubusercontent.com/38336934/119626608-a4beab00-bdc8-11eb-8e76-9493a424b25c.png" width="300" height="300">
+
+- Text fields will automatically be filled with current data to edit
+
+- Title changes from _create_ to _edit_
 
 <img src="https://user-images.githubusercontent.com/38336934/119624131-0d585880-bdc6-11eb-83fb-3552cdbd2a42.png" width="530" height="250">
 
