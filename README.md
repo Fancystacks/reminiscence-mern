@@ -14,13 +14,13 @@ Express Server is hosted on Heroku
 
 Create an event in the text fields and press submit
 
-<img src="https://user-images.githubusercontent.com/38336934/119623624-99b64b80-bdc5-11eb-8ba2-e7379b918688.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/38336934/119623624-99b64b80-bdc5-11eb-8ba2-e7379b918688.png" width="300" height="310">
 
 ## Interactive Functionality:
 
 #### Edit any fields of post by clicking the pencil icon
 
-<img src="https://user-images.githubusercontent.com/38336934/119626608-a4beab00-bdc8-11eb-8e76-9493a424b25c.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/38336934/119626608-a4beab00-bdc8-11eb-8e76-9493a424b25c.png" width="300" height="310">
 
 - Text fields will automatically be filled with current data to edit
 
