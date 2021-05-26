@@ -1,4 +1,4 @@
-# reminiscence-mern
+# Reminiscence Memory Collection
 
 ## Download:
 
@@ -27,4 +27,4 @@ Create an event in the text fields and press submit
 
 - Remove a post completely
 
-[Try it out on Netlify](https://jovial-meninsky-3c14a3.netlify.app)
+[Try it out now on Netlify!](https://jovial-meninsky-3c14a3.netlify.app)
