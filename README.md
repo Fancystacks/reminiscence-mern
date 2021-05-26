@@ -20,7 +20,11 @@ Create an event in the text fields and press submit
 <img src="https://user-images.githubusercontent.com/38336934/119624131-0d585880-bdc6-11eb-83fb-3552cdbd2a42.png" width="530" height="250">
 
 - Edit a post by clicking the pencil icon
+
+  - Text fields will automatically be filled with current data to edit
+
 - Like a post
+
 - Remove a post completely
 
 [Try it out on Netlify](https://jovial-meninsky-3c14a3.netlify.app)
